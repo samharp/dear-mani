@@ -1,1 +1,1 @@
-This is a readme file. There's nothing here now because I'm trying to get the actual project to freaking push to github. I'm not smart enough for this.
+A birthday card for my friend, Mani. All styles and scripts are in document for one easily organized project.
